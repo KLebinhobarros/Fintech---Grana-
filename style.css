@@ -1,0 +1,45 @@
+html, body{
+    height: 100%;
+    
+}
+.form-container{
+    max-width: 350px;
+    padding: 1rem;
+}
+.btn {
+    margin-bottom: 0.5rem;
+}
+.form-container {
+    background-color: #ffffff; 
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.btn-primary {
+    background-color: #00bf63!important; 
+    color: white; 
+    border: none;
+    border: 1px solid #00bf63 !important;  
+}
+
+.btn-primary:hover {
+    background-color: #00bf63; 
+    color: white; 
+}
+
+
+.btn-secondary {
+    background-color: white !important; 
+    color: #00bf63 !important; 
+    border: 1px solid #00bf63 !important; 
+}
+
+.btn-secondary:hover {
+    background-color: #e6ffe6; 
+    color: #00bf63; 
+}
+
+.nova-conta{
+    color: #00bf63; /* Cor da fonte do botão */
+    padding: 10px 20px; 
+}
